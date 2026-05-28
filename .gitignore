@@ -1,0 +1,22 @@
+/vendor
+/node_modules
+/public/build
+/public/hot
+/storage/*.key
+/storage/debugbar
+/bootstrap/cache/*.php
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# IDE files
+/.idea
+/.vscode
+
+# OS files
+.DS_Store
+Thumbs.db
